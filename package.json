@@ -1,0 +1,14 @@
+{
+  "name": "firebase-messaging-example",
+  "version": "1.0.0",
+  "repository": "https://github.com/denkan/firebase-messaging-example.git",
+  "author": "denkan <dennis.nystrom@gmail.com>",
+  "scripts": {
+    "start": "firebase serve",
+    "deploy": "firebase deploy"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
